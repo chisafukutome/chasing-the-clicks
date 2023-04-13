@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  border: solid 10px red;
+  /* Set font */
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+
+  /* bring main items to the center */
+  width: 80%;
+  margin: 5% auto;
+  text-align: center;
+
+  line-height: 1.5;
+}
